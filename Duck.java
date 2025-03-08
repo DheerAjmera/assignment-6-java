@@ -6,3 +6,7 @@ abstract public class Duck {
     public void setQuackBehavior(QuackBehavior quackBehavior) {
         this.quackBehavior = quackBehavior;
     }
+
+    public void setSwimBehaviour(SwimBehaviour swimBehaviour) {
+        this.swimBehaviour = swimBehaviour;
+    }
